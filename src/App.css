@@ -26,3 +26,23 @@
   border-color: #646cff;
   background-color: #646cff;
 } 
+
+.btn-disconnect-wallet {
+  background-color: #000;
+  color: #fff;
+  padding: 0.6em 1.2em;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  margin-left: 10px;
+}
+
+.btn-disconnect-wallet:hover {
+  border-color: #d7513f;
+  background-color: #d7513f;
+}
